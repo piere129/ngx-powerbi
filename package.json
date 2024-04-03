@@ -1,6 +1,6 @@
 {
-  "name": "pbi-app",
-  "version": "4.0.0",
+  "name": "ngx-powerbi-angular-17",
+  "version": "17.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
