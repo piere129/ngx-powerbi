@@ -1,5 +1,5 @@
 {
-  "name": "ngx-powerbi-angular-17",
+  "name": "ngx-powerbi-angular",
   "version": "17.0.0",
   "scripts": {
     "ng": "ng",
@@ -15,7 +15,7 @@
     "prepublish_lib": "npm run build_lib_prod",
     "publish_lib": "npm publish dist/ngx-powerbi"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^17.3.2",
     "@angular/common": "^17.3.2",
